@@ -1,6 +1,7 @@
 #include <catch2/catch_test_macros.hpp>
 
 #include "virtual_computer.h"
+#include "instruction.h"
 
 using namespace std;
 
